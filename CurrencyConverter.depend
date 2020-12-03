@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1606988811 source:t:\all of your stuff, be more careful next time smh\y10\currencyconverter\main.cpp
+	<iostream>
+	<list>
+	"CurrencyService.h"
+
+1606988629 t:\all of your stuff, be more careful next time smh\y10\currencyconverter\currencyservice.h
+	<string>
+	<list>
+	"Currency.h"
+
+1606988832 t:\all of your stuff, be more careful next time smh\y10\currencyconverter\currency.h
+	<string>
+
+1607031806 source:c:\users\abdoa\desktop\currencyconverter\main.cpp
+	<iostream>
+	<list>
+	"CurrencyService.h"
+
+1607031423 c:\users\abdoa\desktop\currencyconverter\currencyservice.h
+	<string>
+	<list>
+	"Currency.h"
+	"CurrencyResponse.h"
+
+1607031686 c:\users\abdoa\desktop\currencyconverter\currency.h
+	<string>
+
+1607031428 c:\users\abdoa\desktop\currencyconverter\currencyresponse.h
+	<string>
+	"Currency.h"
+
